@@ -1,14 +1,16 @@
 project:
   type: book
+  output-dir: docs
+
 
 book:
   title: "Learning Quantitative Econ"
-  author: "Norah Jones"
+  author: "Swapnil Singh"
   date: "2024-12-30"
   chapters:
     - index.qmd
     - intro.qmd
-    - summary.qmd
+    - chapters/chapter1.qmd
     - references.qmd
 
 bibliography: references.bib
