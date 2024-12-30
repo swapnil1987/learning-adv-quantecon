@@ -1,5 +1,4 @@
 # Introduction
 
-This is a book created from markdown and executable code.
 
-See @knuth84 for additional discussion of literate programming.
+There are too many excellent resources for Quantitative Economics (QE). I am not trying to add one more to it. My objective is just to create a place where I keep an index of QE which I find interesting and which have helped me in this journey. And meanwhile, if someone finds it helpful, no one can be more happy than me!
